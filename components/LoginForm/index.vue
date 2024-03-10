@@ -4,7 +4,7 @@
 
 <template>
     <div class="flex flex-col gap-4 p-4 w-[270px] rounded-md shadow-md bg-white items-center">
-        <h1 class="text-[#ED2590] mb-8">Acesse o Nuxtkut</h1>
+        <h1 class="text-[#ED2590] mb-6 font-semibold text-xl">Acesse o Nuxtkut</h1>
         <LoginFormInput
             placeholder="E-mail"
         />
