@@ -4,7 +4,7 @@
         <h1 class="text-xl font-bold text-[#ED2590]">Nuxtkut</h1>
         <div class="hidden md:flex gap-8">
           <p class="cursor-pointer">Início</p>
-          <p class="cursor-pointer">Perfil</p>
+          <p class="cursor-pointer text-[#ED2590] font-semibold">Perfil</p>
           <p class="cursor-pointer">Comunidades</p>
           <p class="cursor-pointer">Jogos</p>
         </div>
