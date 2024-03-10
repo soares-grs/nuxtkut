@@ -1,4 +1,8 @@
-<script setup></script>
+<script setup>
+definePageMeta({
+    layout: "login"
+})
+</script>
 
 <template>
     <div class="h-full flex justify-center items-center">
