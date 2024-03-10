@@ -1,7 +1,11 @@
-<script setup>
-
+<script>
+export default {
+    created() {
+        this.$router.push('/login');
+    }
+}
 </script>
 
 <template>
-    <h1>this is the home page</h1>
+    <h1>Page Not Found</h1>
 </template>
